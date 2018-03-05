@@ -1,4 +1,4 @@
-#include "i2cScan.h"
+#include "i2cScan.h" //ceci est un programme
 #include <Wire.h>
 
 void i2cScan(){
